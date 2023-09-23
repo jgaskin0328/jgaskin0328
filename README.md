@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jgaskin0328
+- 👀 I’m interested in making an ai system that operates ahead of society 
+- 🌱 I’m currently learning code and machine learning 
+- 💞️ I’m looking to collaborate on deep learning and machine learning 
+- 📫 How to reach me is email
